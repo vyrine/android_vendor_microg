@@ -1,3 +1,3 @@
 # android_vendor_microg
 
-Development moved to [GitLab: android_vendor_microg](https://gitlab.com/vyrine/android_vendor_microg)
+Development moved to [Codeberg: android_vendor_microg](https://codeberg.org/vyrine/android_vendor_microg)
